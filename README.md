@@ -3,6 +3,7 @@
 **Sunday, November 12, 2017, 2:00pm - 5:30pm, Room 501**
 
 [http://se4science.org/workshops/se-codese17/](http://se4science.org/workshops/se-codese17/)
+
 [https://sc17.supercomputing.org/session/?sess=sess419](http://se4science.org/workshops/se-codese17/)
 
 ### Agenda
@@ -27,7 +28,7 @@
 
   - 4:40 - 5:15 -- [Small Group Discussions](#discussion-exercise)
 
-  - 5:15 - 5:30 -- Small Group Reports and Workshop Wrapup
+  - 5:15 - 5:30 -- Small Group Reports and Workshop Wrapup (including [related sessions](#related-sessions))
 
 
 ### Goals of workshop
@@ -68,18 +69,36 @@ Motivated by the discussion during the 2015 and 2016 workshops, in this edition 
 
 We will split into small groups to discuss the topic of **software lifecycles models for scientific software**.
 
-Each group can choose to address one or more of the following questions:
+Each group will start by discussing one of the following questions:
 
-  1. Are there any stages of the scientific software lifecycle that are fundamentally different/novel from the lifecycle for other software?
+  1. Are there any stages of the scientific software lifecycle that are fundamentally different/novel from the lifecycle for other software? [Link to Google Doc for notes](https://docs.google.com/document/d/142OnegzNhdWN8aiVJDsVENHZYkdvngQfi_5Ri_hyato/edit?usp=sharing)
 
-  2. Do any commonly identified software lifecycles from industry / open source work well for particular types of scientific software projects? If so, how can these projects be characterised?
+  2. Do any commonly identified software lifecycles from industry / open source work well for particular types of scientific software projects? If so, how can these projects be characterised? [Link to Google Doc for notes](https://docs.google.com/document/d/10YCPBQ-6hQ89ooHFCZnd_edPkzQ9N9h_TNkcYP-u9_I/edit?usp=sharing)
 
-  3. Are there any metrics that help us understand which software development model we should choose for a particular type/size of scientific software project?
+  3. Are there any metrics that help us understand which software development model we should choose for a particular type/size of scientific software project? [Link to Google Doc for notes](https://docs.google.com/document/d/1uXtIFZqKfloOlHMPJ6MwDJ4sLfOqjIh5NoBxsj2r_qU/edit?usp=sharing)
   
-  4. What aspects of the software engineering lifecycle process are difficult for your projects and why?
+  4. What aspects of the software engineering lifecycle process are difficult for your projects and why? [Link to Google Doc for notes](https://docs.google.com/document/d/1U_Mo3_lbO3C7ZrpPyipfXlJHehnk-xv0AK0fgJX5vYY/edit?usp=sharing)
   
-Each group should nominate a facilitator who will take notes in the appropriate Google Doc. In the wrap-up session, each group will be asked to summarise their discussions and report them to the rest of the workshop.
+Each group should nominate a facilitator who will take notes in the Google Doc documents linked above (anyone can add to these notes using the link) and keep discussion flowing. 
 
+Your aim as a group is to:
+  - (Briefly) share the knowledge that you have on this topic with the rest of your group
+  - Record any good examples that inform the discussion
+  - Record any places where you think further research or experiences are required to understand the topic
+  - Summarize what you think it is important to understand about this topic
+
+In the wrap-up session, each group will be asked to summarise their discussions and report them to the rest of the workshop.
+If you think you have completed discussion of your question, please feel free to move on to one of the other questions.
+  
+### Related Sessions
+
+You might be interested in the following related sessions at SC17:
+
+  - [BoF on Software Engineers: Careers in Research](https://sc17.supercomputing.org/presentation/?id=bof149&sess=sess354), Tuesday 14th November, 12:15 - 13:15, Room 603
+  - [BoF on Software Engineering and Reuse in Computational Science and Engineering](https://sc17.supercomputing.org/presentation/?id=bof144&sess=sess374), Tuesday 14th November, 17:15 - 19:00, Room 601
+  - [BoF on Practical Reproducibility by Managing Experiments Like Software](https://sc17.supercomputing.org/presentation/?id=bof177&sess=sess346), Wednesday 15th November, 12:15 - 13:15, Room 601
+  - [Panel on HPC Software: Is “Cool Stuff” Really Incompatible with Sustainability?](https://sc17.supercomputing.org/?post_type=page&p=5407&id=pan126&sess=sess250), Friday 17th November, 08:30 - 10:00, Room 205-207
+  
 ### Committees
 
 #### Organizing Committee
