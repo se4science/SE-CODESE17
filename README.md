@@ -1,37 +1,108 @@
-## Welcome to GitHub Pages
+## 2017 International Workshop on Software Engineering for High Performance Computing in Computational and Data-Enabled Science and Engineering (SE-CODESE17) *held in conjunction with SC17*
 
-You can use the [editor on GitHub](https://github.com/se4science/se-codese17/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Sunday, November 12, 2017, 2:00pm - 5:30pm, Room 501**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[http://se4science.org/workshops/se-codese17/](http://se4science.org/workshops/se-codese17/)
+[https://sc17.supercomputing.org/session/?sess=sess419](http://se4science.org/workshops/se-codese17/)
 
-### Markdown
+### Agenda
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  - 2:00 - 2:05 -- Welcome and Introductions
 
-```markdown
-Syntax highlighted code block
+  - 2:05 - 2:35 -- Invited Talk: [Software Engineering for Computational Science and Engineering: What Can Work and What Will Not](https://sc17.supercomputing.org/presentation/?id=wkpr154&sess=sess419), Mike Heroux
 
-# Header 1
-## Header 2
-### Header 3
+  - 2:35 - 2:55 -- FULL PAPER: Supporting Software Engineering Practices in the Development of Data-Intensive HPC Applications with the JuML Framework by Markus Götz, Matthias Book, Christian Bodenstein and Morris Riedel
 
-- Bulleted
-- List
+  - 2:55 - 3:30 -- COFFEE BREAK
 
-1. Numbered
-2. List
+  - 3:30 - 3:45 -- POSITION PAPER: [Experiences on Clustering High-Dimensional Data using pbdR](https://sc17.supercomputing.org/?post_type=page&p=5407&id=wkpr160&sess=sess419) by Sadika Amreen and Audris Mockus
 
-**Bold** and _Italic_ and `Code` text
+  - 3:45 - 4:00 -- POSITION PAPER: [Software engineering for efficient development of flexible numerical software](https://sc17.supercomputing.org/?post_type=page&p=5407&id=wkpr170&sess=sess419) by Nathan Wukie and Paul Orkwis
 
-[Link](url) and ![Image](src)
-```
+  - 4:00 - 4:15 -- POSITION PAPER: [pFLogger: The parallel Fortran logging framework for HPC applications](https://sc17.supercomputing.org/?post_type=page&p=5407&id=wkpr171&sess=sess419) by Thomas Clune and Carlos Cruz
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  - 4:15 - 4:30 -- POSITION PAPER: [Proposal for a Scientific Software Lifecycle Model](https://sc17.supercomputing.org/?post_type=page&p=5407&id=wkpr162&sess=sess419) by Anshu Dubey and Lois McInnes
 
-### Jekyll Themes
+  - 4:30 - 4:40 -- [Introduction to small group discussion exercise](#discussion-exercise)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/se4science/se-codese17/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  - 4:40 - 5:15 -- [Small Group Discussions](#discussion-exercise)
 
-### Support or Contact
+  - 5:15 - 5:30 -- Small Group Reports and Workshop Wrapup
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Goals of workshop
+
+This workshop is concerned with identifying and applying appropriate software engineering (SE) tools and practices (e.g., code generators, static analyzers, validation + verification (V&V) practices, testing, design approaches, and maintenance practices) to support and ease the development of reproducible Computational and Data-enabled Science & Engineering (CoDeSE) software for High Performance Computing (HPC). Specifically:
+  - CoDeSE applications that include large parallel models/simulations of the physical world running on HPC systems.
+  - CoDeSE applications that utilize HPC systems (e.g., GPUs computing, compute clusters, or supercomputers) to manage and/or manipulate large amounts of data.
+
+Despite the increasing demand for utilizing HPC for CoDeSE applications, software development for HPC historically attracted little attention from the SE community. Paradoxically, the HPC CoDeSE community has increasingly been adopting SE techniques and tools. Indeed, the development of CoDeSE software for HPC differs significantly from the development of more traditional business information systems, from which many SE best practices and tools have been drawn. These differences appear at various phases of the software lifecycle as described below:
+
+  - Requirements
+    - Risks due to the exploration of relatively unknown scientific/engineering phenomena;
+    - Supporting reproducible science, particularly on non-deterministic systems;
+    - Constant change as new information is gathered;
+  - Design
+    - Data dependencies within the software;
+    - The need to identify the most appropriate parallelization strategy for CoDeSE algorithms;
+    - The presence of complex communication among HPC nodes that could degrade performance;
+    - Challenges in designing unit and system tests at appropriate scales;
+    - The need for fault tolerance and task migration mechanisms to mitigate the need to restart time-consuming computations due to software or hardware errors;
+  - V&V
+    - Results are often unknown when exploring novel science or engineering areas, algorithms, and datasets;
+    - Challenges in applying unit and system tests at appropriate scales;
+    - Challenges in retrospectively designing and implementing tests for legacy code;
+    - Popular tools often do not work on the latest HPC architectures; they need to be tuned to handle many threads executing at the same time.
+  - Deployment
+    - Failure of components within running systems is expected due to system size;
+    - Continuous integration on platforms with high available and infrequent downtimes;
+    - Long system lifespans necessitate porting across multiple platforms
+
+Therefore, in order to identify and develop appropriate tools and practices to support HPC CoDeSE software, members of the SE community, the CoDeSE community and the HPC community must interact with each other. This workshop aims to provide a platform to facilitate this interaction by encourage paper submission and workshop participation by people from all three communities. In addition to presentation and discussion of the accepted papers, significant time during the workshop will be devoted to large and small group discussions among the participants to identify important research questions at the intersection of SE and HPC CoDeSE that are in need of additional study. 
+
+Previous editions of this workshop have focused discussion around a number of interesting topics, including: bit-by-bit vs. scientific validation, reproducibility, unique characteristics of CoDeSE software that affect software development choices, major software quality goals for CoDeSE software, crossing the communication chasm between SE and CoDeSE, measuring the impact of SE on scientific productivity, SE tools and methods needed by the CoDeSE community, and how to effectively test CoDeSE software. 
+
+Motivated by the discussion during the 2015 and 2016 workshops, in this edition of the workshop, we expand the previous workshops by continuing and extending two special focus areas, and emphasizing data-enabled science and engineering as a partner of computational science and engineering, turning CSE into CoDeSE. First, we will place special emphasis on experience reports (including positive, negative, and neutral) of applying software engineering practices to the development of HPC scientific software. It is important to document those successes and failures for the community. Second, as quality assurance is a challenge in the scientific HPC domain, which was specifically discussed in 2016, we will also recruit papers describing quality assurance techniques for HPC science and their use in practice focussing specifically on the challenges of unit testing, system testing, and continuous integration for HPC codes, addressing both legacy code and testing at scale on different architectures and platforms. 
+
+### Discussion Exercise
+
+We will split into small groups to discuss the topic of **software lifecycles models for scientific software**.
+
+Each group can choose to address one or more of the following questions:
+
+  1. Are there any stages of the scientific software lifecycle that are fundamentally different/novel from the lifecycle for other software?
+
+  2. Do any commonly identified software lifecycles from industry / open source work well for particular types of scientific software projects? If so, how can these projects be characterised?
+
+  3. Are there any metrics that help us understand which software development model we should choose for a particular type/size of scientific software project?
+  
+  4. What aspects of the software engineering lifecycle process are difficult for your projects and why?
+  
+Each group should nominate a facilitator who will take notes in the appropriate Google Doc. In the wrap-up session, each group will be asked to summarise their discussions and report them to the rest of the workshop.
+
+### Committees
+
+#### Organizing Committee
+
+  - [Jeffrey C. Carver](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=jeffrey&ln=carver&uid=293453) - University of Alabama	
+  - [Neil Chue Hong](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=neil&ln=chue_hong&uid=761853) - University of Edinburgh	
+  - [Selim Ciraci](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=selim&ln=ciraci&uid=160563) - Microsoft	
+  - [Daniel S. Katz](https://sc17.supercomputing.org/?post_type=page&p=5406&fn=daniel&ln=katz&uid=061143) - University of Illinois	
+
+
+#### Program Committee
+
+  - David E. Bernholdt - Oak Ridge National Laboratory
+  - Jeff Daily - Pacific Northwest National Laboratory
+  - Ali Jannesari - University of California, Berkeley
+  - Hilmar Lapp - Duke University
+  - Lois Curfman McInnes - Argonne National Laboratory
+  - Sarah Mount - King's College London
+  - Aleksandra Pawlik - New Zealand eScience Infrastructure
+  - Tracy Teal - Data Carpentry
+  - Stefan Wagner - University of Stuttgart
+  - Ethan White - University of Florida
+ 
+### Code of Conduct
+ 
+All participants are reminded that their involvement in this session is covered by the [SC17 Code of Conduct](http://sc17.supercomputing.org/attendees/code-of-conduct/).
