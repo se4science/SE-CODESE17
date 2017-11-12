@@ -6,6 +6,8 @@
 
 [https://sc17.supercomputing.org/session/?sess=sess419](http://se4science.org/workshops/se-codese17/)
 
+[Document for collaborative note taking](https://docs.google.com/document/d/1unkflER1MbbLplkEdOqCy6VW9O52YCE4nQ0ZQzHfFA0/edit)
+
 ### Agenda
 
   - 2:00 - 2:05 -- Welcome and Introductions
