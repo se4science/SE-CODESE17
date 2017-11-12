@@ -28,7 +28,7 @@
 
   - 4:40 - 5:15 -- [Small Group Discussions](#discussion-exercise)
 
-  - 5:15 - 5:30 -- Small Group Reports and Workshop Wrapup (including [related sessions](#related-sessions))
+  - 5:15 - 5:30 -- Small Group Reports and Workshop Wrapup (including [related sessions](#related-sessions) and code-)
 
 
 ### Goals of workshop
@@ -102,6 +102,15 @@ You might be interested in the following related sessions at SC17:
   - Booth Talk on Why Persistently Identifying Software is a Good Idea, Thursday 14th November. 13:30 - 13:45, Booth 1136 (STFC)
   - [Panel on HPC Software: Is “Cool Stuff” Really Incompatible with Sustainability?](https://sc17.supercomputing.org/?post_type=page&p=5407&id=pan126&sess=sess250), Friday 17th November, 08:30 - 10:00, Room 205-207
   
+  
+### Code Review Survey
+
+Jeffrey Carver and Nasir Eisty of the University of Alabama are conducting a research study titled “Code Review Process in Computational Science and Engineering Software”. They wish to understand the practices, impacts and barriers of code review technique in Computational Science and Engineering (CSE) software development. 
+
+We encourage workshop participants to complete a web survey that will take about 15 minutes. This survey contains questions about your previous experience with code review process.
+
+Complete the survey at: [http://bit.ly/CodeReview-SC17](http://bit.ly/CodeReview-SC17)
+
 ### Committees
 
 #### Organizing Committee
