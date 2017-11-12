@@ -28,7 +28,7 @@
 
   - 4:40 - 5:15 -- [Small Group Discussions](#discussion-exercise)
 
-  - 5:15 - 5:30 -- Small Group Reports and Workshop Wrapup (including [related sessions](#related-sessions) and code-)
+  - 5:15 - 5:30 -- Small Group Reports and Workshop Wrapup (including [related sessions](#related-sessions) and [code review survey](#code-review-survey))
 
 
 ### Goals of workshop
