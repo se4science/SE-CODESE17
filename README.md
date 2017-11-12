@@ -65,7 +65,7 @@ Previous editions of this workshop have focused discussion around a number of in
 
 Motivated by the discussion during the 2015 and 2016 workshops, in this edition of the workshop, we expand the previous workshops by continuing and extending two special focus areas, and emphasizing data-enabled science and engineering as a partner of computational science and engineering, turning CSE into CoDeSE. First, we will place special emphasis on experience reports (including positive, negative, and neutral) of applying software engineering practices to the development of HPC scientific software. It is important to document those successes and failures for the community. Second, as quality assurance is a challenge in the scientific HPC domain, which was specifically discussed in 2016, we will also recruit papers describing quality assurance techniques for HPC science and their use in practice focussing specifically on the challenges of unit testing, system testing, and continuous integration for HPC codes, addressing both legacy code and testing at scale on different architectures and platforms. 
 
-### Discussion Exercise
+### <a name="discussion-exercise">Discussion Exercise</a>
 
 We will split into small groups to discuss the topic of **software lifecycles models for scientific software**.
 
@@ -95,8 +95,11 @@ If you think you have completed discussion of your question, please feel free to
 You might be interested in the following related sessions at SC17:
 
   - [BoF on Software Engineers: Careers in Research](https://sc17.supercomputing.org/presentation/?id=bof149&sess=sess354), Tuesday 14th November, 12:15 - 13:15, Room 603
+  - Booth Talk on Why Persistently Identifying Software is a Good Idea, Tuesday 14th November. 15:00 - 15:15, Booth 1136 (STFC)
   - [BoF on Software Engineering and Reuse in Computational Science and Engineering](https://sc17.supercomputing.org/presentation/?id=bof144&sess=sess374), Tuesday 14th November, 17:15 - 19:00, Room 601
+  - [BoF on HPC Carpentry - Practical, Hands-On HPC Training](http://sc17.supercomputing.org/presentation/?id=bof125&sess=sess359), Tuesday 14th November, 17:15 - 19:00, Room 301-303
   - [BoF on Practical Reproducibility by Managing Experiments Like Software](https://sc17.supercomputing.org/presentation/?id=bof177&sess=sess346), Wednesday 15th November, 12:15 - 13:15, Room 601
+  - Booth Talk on Why Persistently Identifying Software is a Good Idea, Thursday 14th November. 13:30 - 13:45, Booth 1136 (STFC)
   - [Panel on HPC Software: Is “Cool Stuff” Really Incompatible with Sustainability?](https://sc17.supercomputing.org/?post_type=page&p=5407&id=pan126&sess=sess250), Friday 17th November, 08:30 - 10:00, Room 205-207
   
 ### Committees
