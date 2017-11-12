@@ -73,13 +73,13 @@ We will split into small groups to discuss the topic of **software lifecycles mo
 
 Each group will start by discussing one of the following questions:
 
-  1. Are there any stages of the scientific software lifecycle that are fundamentally different/novel from the lifecycle for other software? [Link to Google Doc for notes](https://docs.google.com/document/d/142OnegzNhdWN8aiVJDsVENHZYkdvngQfi_5Ri_hyato/edit?usp=sharing)
+  1. Are there any stages of the scientific software lifecycle that are fundamentally different/novel from the lifecycle for other software? [Notes from Group 1a](https://docs.google.com/document/d/142OnegzNhdWN8aiVJDsVENHZYkdvngQfi_5Ri_hyato/edit?usp=sharing), [Notes from Group 1b](https://docs.google.com/document/d/1BPllsofhPIo2euf0EEnmSsnmYEsjl9TH8tY3T6-ZxSw/edit?usp=sharing)
 
-  2. Do any commonly identified software lifecycles from industry / open source work well for particular types of scientific software projects? If so, how can these projects be characterised? [Link to Google Doc for notes](https://docs.google.com/document/d/10YCPBQ-6hQ89ooHFCZnd_edPkzQ9N9h_TNkcYP-u9_I/edit?usp=sharing)
+  2. Do any commonly identified software lifecycles from industry / open source work well for particular types of scientific software projects? If so, how can these projects be characterised? [Notes from Group 2a](https://docs.google.com/document/d/10YCPBQ-6hQ89ooHFCZnd_edPkzQ9N9h_TNkcYP-u9_I/edit?usp=sharing), [Notes from Group 2b](https://docs.google.com/document/d/1jkmpBdK4vnXadVu9eHq54N0FrxEzgEw6DBJV5PFCWNU/edit#heading=h.u99l3oc3hr7i)
 
-  3. Are there any metrics that help us understand which software development model we should choose for a particular type/size of scientific software project? [Link to Google Doc for notes](https://docs.google.com/document/d/1uXtIFZqKfloOlHMPJ6MwDJ4sLfOqjIh5NoBxsj2r_qU/edit?usp=sharing)
+  3. Are there any metrics that help us understand which software development model we should choose for a particular type/size of scientific software project? [Notes from Group 3a](https://docs.google.com/document/d/1uXtIFZqKfloOlHMPJ6MwDJ4sLfOqjIh5NoBxsj2r_qU/edit?usp=sharing), [Notes from Group 3b](https://docs.google.com/document/d/1YkGnhvobVA71-HR3UJnN5upX8L7NpuWdmGcBqdC6xps/edit?usp=sharing)
   
-  4. What aspects of the software engineering lifecycle process are difficult for your projects and why? [Link to Google Doc for notes](https://docs.google.com/document/d/1U_Mo3_lbO3C7ZrpPyipfXlJHehnk-xv0AK0fgJX5vYY/edit?usp=sharing)
+  4. What aspects of the software engineering lifecycle process are difficult for your projects and why? [Notes from Group 4a](https://docs.google.com/document/d/1U_Mo3_lbO3C7ZrpPyipfXlJHehnk-xv0AK0fgJX5vYY/edit?usp=sharing), [Notes from Group 4b](https://docs.google.com/document/d/1DzzskW-yMCZq-66wfoAc-DR-dNCzNP3uuJzPsAzzXL4/edit?usp=sharing)
   
 Each group should nominate a facilitator who will take notes in the Google Doc documents linked above (anyone can add to these notes using the link) and keep discussion flowing. 
 
