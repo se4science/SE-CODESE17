@@ -8,6 +8,8 @@
 
 [Document for collaborative note taking](https://docs.google.com/document/d/1unkflER1MbbLplkEdOqCy6VW9O52YCE4nQ0ZQzHfFA0/edit)
 
+*Please leave feedback about this workshop using [this survey](https://submissions.supercomputing.org/?page=SessionEval&new_year=sc17&id=sess419&eval_stype=stype171)*
+
 ### Agenda
 
   - 2:00 - 2:05 -- Welcome and Introductions
@@ -112,6 +114,10 @@ Jeffrey Carver and Nasir Eisty of the University of Alabama are conducting a res
 We encourage workshop participants to complete a web survey that will take about 15 minutes. This survey contains questions about your previous experience with code review process.
 
 Complete the survey at: [http://bit.ly/CodeReview-SC17](http://bit.ly/CodeReview-SC17)
+
+### SC17 Feedback Survey
+
+Please provide feedback on this workshop using the survey at: [https://submissions.supercomputing.org/?page=SessionEval&new_year=sc17&id=sess419&eval_stype=stype171](https://submissions.supercomputing.org/?page=SessionEval&new_year=sc17&id=sess419&eval_stype=stype171)
 
 ### Committees
 
