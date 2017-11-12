@@ -2,7 +2,7 @@
 
 **Sunday, November 12, 2017, 2:00pm - 5:30pm, Room 501**
 
-[http://se4science.org/workshops/se-codese17/](http://se4science.org/workshops/se-codese17/)
+**Website for this workshop is [https://se4science.github.io/SE-CODESE17/](https://se4science.github.io/SE-CODESE17/)**
 
 [https://sc17.supercomputing.org/session/?sess=sess419](http://se4science.org/workshops/se-codese17/)
 
