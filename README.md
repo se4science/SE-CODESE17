@@ -14,13 +14,13 @@
 
   - 2:00 - 2:05 -- Welcome and Introductions
 
-  - 2:05 - 2:35 -- Invited Talk: [Software Engineering for Computational Science and Engineering: What Can Work and What Will Not](https://sc17.supercomputing.org/presentation/?id=wkpr154&sess=sess419), Mike Heroux
+  - 2:05 - 2:35 -- Invited Talk: [Software Engineering for Computational Science and Engineering: What Can Work and What Will Not](https://sc17.supercomputing.org/presentation/?id=wkpr154&sess=sess419), Mike Heroux - [Slides](slides/heroux.pdf)
 
   - 2:35 - 2:55 -- FULL PAPER: Supporting Software Engineering Practices in the Development of Data-Intensive HPC Applications with the JuML Framework by Markus Götz, Matthias Book, Christian Bodenstein and Morris Riedel
 
   - 2:55 - 3:30 -- COFFEE BREAK
 
-  - 3:30 - 3:45 -- POSITION PAPER: [Experiences on Clustering High-Dimensional Data using pbdR](https://sc17.supercomputing.org/?post_type=page&p=5407&id=wkpr160&sess=sess419) by Sadika Amreen and Audris Mockus
+  - 3:30 - 3:45 -- POSITION PAPER: [Experiences on Clustering High-Dimensional Data using pbdR](https://sc17.supercomputing.org/?post_type=page&p=5407&id=wkpr160&sess=sess419) by Sadika Amreen and Audris Mockus - [Slides](slides/amreen.pdf)
 
   - 3:45 - 4:00 -- POSITION PAPER: [Software engineering for efficient development of flexible numerical software](https://sc17.supercomputing.org/?post_type=page&p=5407&id=wkpr170&sess=sess419) by Nathan Wukie and Paul Orkwis
 
