@@ -24,7 +24,7 @@
 
   - 3:45 - 4:00 -- POSITION PAPER: [Software engineering for efficient development of flexible numerical software](https://sc17.supercomputing.org/?post_type=page&p=5407&id=wkpr170&sess=sess419) by Nathan Wukie and Paul Orkwis - [Slides](https://www.slideshare.net/secret/hCj0OW6eABIEe8)
 
-  - 4:00 - 4:15 -- POSITION PAPER: [pFLogger: The parallel Fortran logging framework for HPC applications](https://sc17.supercomputing.org/?post_type=page&p=5407&id=wkpr171&sess=sess419) by Thomas Clune and Carlos Cruz - [Slides] (slides/Clune.pdf) 
+  - 4:00 - 4:15 -- POSITION PAPER: [pFLogger: The parallel Fortran logging framework for HPC applications](https://sc17.supercomputing.org/?post_type=page&p=5407&id=wkpr171&sess=sess419) by Thomas Clune and Carlos Cruz - [Slides](slides/Clune.pdf)
 
   - 4:15 - 4:30 -- POSITION PAPER: [Proposal for a Scientific Software Lifecycle Model](https://sc17.supercomputing.org/?post_type=page&p=5407&id=wkpr162&sess=sess419) by Anshu Dubey and Lois McInnes
 
